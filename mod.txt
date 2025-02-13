@@ -7,3 +7,6 @@ https://cdn.modrinth.com/data/zV5r3pPn/versions/VM4DBhDl/skinlayers3d-forge-1.7.
 https://cdn.modrinth.com/data/MI1LWe93/versions/Ap1DSAzz/creeperoverhaul-3.0.2-forge.jar
 https://cdn.modrinth.com/data/Lq6ojcWv/versions/yjxych8u/endermanoverhaul-forge-1.20.1-1.0.4.jar
 https://cdn.modrinth.com/data/8YcE8y4T/versions/CZuzLvC7/Ribbits-1.20.1-Forge-3.0.4.jar
+https://cdn.modrinth.com/data/Ua7DFN59/versions/PJOYAmAs/YungsApi-1.20-Forge-4.0.6.jar
+https://cdn.modrinth.com/data/8BmcQJ2H/versions/LwI6czff/geckolib-forge-1.20.1-4.7.jar
+https://cdn.modrinth.com/data/M1953qlQ/versions/irREd1ZJ/resourcefulconfig-forge-1.20.1-2.1.2.jar
